@@ -1,4 +1,5 @@
-﻿using AVINYALIB.Models;
+﻿using AVINYALIB;
+using AVINYALIB.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,14 +9,18 @@ namespace AVINYAWEBAPI.Controllers
     [ApiController]
     public class TransactionController : ControllerBase
     {
-        [HttpGet("GetAllTransactions")]
-        public List<TransactionModel> GetAllTransactions()
+        private readonly TransactionInterface _transactionInterface;
+
+        public TransactionController(TransactionInterface transactionInterface)
         {
-            TransactionModelClass objTransactionModelClass = new TransactionModelClass();
+            _transactionInterface = transactionInterface;
+        }
 
-            List<TransactionModel> lstTransaction = objTransactionModelClass.GetAllTransactions();
-
-            return lstTransaction;
+        [HttpGet("GetAllTransactions")]
+        public async Task<List<TransactionModel>> GetAllTransactions()
+        {
+            List<TransactionModel> lstTransactionModel = await _transactionInterface.GetAllTransactions();
+            return lstTransactionModel;
 
         }
     }

@@ -1,4 +1,5 @@
 ﻿using AVINYALIB.Models;
+using AVINYALIB;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,14 +9,18 @@ namespace AVINYAWEBAPI.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        [HttpGet("GetAllUsers")]
-        public List<UserModel> GetAllUsers()
+        private readonly UserInterface _userInterface;
+
+        public UserController(UserInterface userInterface)
         {
-            UserModelClass objUserModelClass = new UserModelClass();
+            _userInterface = userInterface;
+        }
 
-            List<UserModel> lstUsers = objUserModelClass.GetAllUsers();
-
-            return lstUsers;
+        [HttpGet("GetAllUsers")]
+        public async Task<List<UserModel>> GetAllUsers()
+        {
+            List<UserModel> lstUserModel = await _userInterface.GetAllUsers();
+            return lstUserModel;
 
         }
     }

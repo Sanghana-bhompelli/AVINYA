@@ -3,25 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyalib\\accountmodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|solutionrelative:accountmodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyalib\\usermodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|solutionrelative:usermodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyalib\\accountinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|solutionrelative:accountinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyalib\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|solutionrelative:models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{501F2DAF-390A-4F13-8CF9-9A95A7195BFB}|..\\AVINYAWEBAPI\\AVINYAWEBAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyawebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{501F2DAF-390A-4F13-8CF9-9A95A7195BFB}|..\\AVINYAWEBAPI\\AVINYAWEBAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyawebapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyalib\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|solutionrelative:userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{501F2DAF-390A-4F13-8CF9-9A95A7195BFB}|..\\AVINYAWEBAPI\\AVINYAWEBAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyawebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501F2DAF-390A-4F13-8CF9-9A95A7195BFB}|..\\AVINYAWEBAPI\\AVINYAWEBAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,88 +24,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountModel.cs",
-              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\Models\\AccountModel.cs",
-              "RelativeDocumentMoniker": "Models\\AccountModel.cs",
-              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\Models\\AccountModel.cs",
-              "RelativeToolTip": "Models\\AccountModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T06:02:17.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountModelClass.cs",
-              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\AccountModelClass.cs",
-              "RelativeDocumentMoniker": "AccountModelClass.cs",
-              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\AccountModelClass.cs",
-              "RelativeToolTip": "AccountModelClass.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwCAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T05:57:33.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountInterface.cs",
-              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\AccountInterface.cs",
-              "RelativeDocumentMoniker": "AccountInterface.cs",
-              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\AccountInterface.cs",
-              "RelativeToolTip": "AccountInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T05:54:18.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TransactionController.cs",
-              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYAWEBAPI\\Controllers\\TransactionController.cs",
-              "RelativeDocumentMoniker": "..\\AVINYAWEBAPI\\Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYAWEBAPI\\Controllers\\TransactionController.cs",
-              "RelativeToolTip": "..\\AVINYAWEBAPI\\Controllers\\TransactionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T05:00:08.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYAWEBAPI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "..\\AVINYAWEBAPI\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYAWEBAPI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "..\\AVINYAWEBAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T04:40:17.815Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYAWEBAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "..\\AVINYAWEBAPI\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYAWEBAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "..\\AVINYAWEBAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T15:07:20.163Z",
+              "WhenOpened": "2025-06-03T09:29:44.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserModelClass.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\UserModelClass.cs",
+              "RelativeDocumentMoniker": "UserModelClass.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\UserModelClass.cs",
+              "RelativeToolTip": "UserModelClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:24:12.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\UserInterface.cs",
+              "RelativeDocumentMoniker": "UserInterface.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\UserInterface.cs",
+              "RelativeToolTip": "UserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:23:10.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYAWEBAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AVINYAWEBAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYAWEBAPI\\Program.cs",
+              "RelativeToolTip": "..\\AVINYAWEBAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:18:09.64Z",
               "EditorCaption": ""
             }
           ]

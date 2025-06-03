@@ -192,11 +192,13 @@
             "format": "int32"
           },
           "fromAccountId": {
-            "type": "string",
+            "type": "integer",
+            "format": "int32",
             "nullable": true
           },
           "toAccountId": {
-            "type": "string",
+            "type": "integer",
+            "format": "int32",
             "nullable": true
           },
           "amount": {

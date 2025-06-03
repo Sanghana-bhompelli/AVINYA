@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AVINYALIB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+044d40946cca188c8ead3ae72889ee5600247a4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4c0c1e9879be2d2356fd77d1c626063e15b4459")]
 [assembly: System.Reflection.AssemblyProductAttribute("AVINYALIB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AVINYALIB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

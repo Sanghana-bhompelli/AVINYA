@@ -20,4 +20,9 @@ public partial class Transaction
     public virtual Account? FromAccount { get; set; }
 
     public virtual Account? ToAccount { get; set; }
+    public string Name { get; internal set; }
+    public string Email { get; internal set; }
+    public string Password { get; internal set; }
+    public string Role { get; internal set; }
+    public int UserId { get; internal set; }
 }
