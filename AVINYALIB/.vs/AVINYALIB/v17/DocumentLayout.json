@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{501F2DAF-390A-4F13-8CF9-9A95A7195BFB}|..\\AVINYAWEBAPI\\AVINYAWEBAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501F2DAF-390A-4F13-8CF9-9A95A7195BFB}|..\\AVINYAWEBAPI\\AVINYAWEBAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyawebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyalib\\accountmodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|solutionrelative:accountmodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyalib\\accountinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|solutionrelative:accountinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinya\\avinyalib\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E6864A-9B2C-456C-B9F7-9647B1A109A6}|AVINYALIB.csproj|solutionrelative:models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYAWEBAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AVINYAWEBAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYAWEBAPI\\Program.cs",
+              "RelativeToolTip": "..\\AVINYAWEBAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:10:36.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\Models\\AccountModel.cs",
+              "RelativeDocumentMoniker": "Models\\AccountModel.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\Models\\AccountModel.cs",
+              "RelativeToolTip": "Models\\AccountModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:02:17.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountModelClass.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\AccountModelClass.cs",
+              "RelativeDocumentMoniker": "AccountModelClass.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\AccountModelClass.cs",
+              "RelativeToolTip": "AccountModelClass.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:57:33.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountInterface.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\AccountInterface.cs",
+              "RelativeDocumentMoniker": "AccountInterface.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYALIB\\AccountInterface.cs",
+              "RelativeToolTip": "AccountInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:54:18.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYAWEBAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\AVINYAWEBAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AVINYA\\AVINYAWEBAPI\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "..\\AVINYAWEBAPI\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:40:17.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

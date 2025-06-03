@@ -1,0 +1,15 @@
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\bin\Debug\net8.0\AVINYALIB.deps.json
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\bin\Debug\net8.0\AVINYALIB.dll
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\bin\Debug\net8.0\AVINYALIB.pdb
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\obj\Debug\net8.0\AVINYALIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\obj\Debug\net8.0\AVINYALIB.AssemblyInfoInputs.cache
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\obj\Debug\net8.0\AVINYALIB.AssemblyInfo.cs
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\obj\Debug\net8.0\AVINYALIB.csproj.CoreCompileInputs.cache
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\obj\Debug\net8.0\AVINYALIB.sourcelink.json
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\obj\Debug\net8.0\AVINYALIB.dll
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\obj\Debug\net8.0\refint\AVINYALIB.dll
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\obj\Debug\net8.0\AVINYALIB.pdb
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\obj\Debug\net8.0\ref\AVINYALIB.dll
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\bin\Debug\net8.0\AVINYALIB.runtimeconfig.json
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\obj\Debug\net8.0\AVINYALIB.csproj.AssemblyReference.cache
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AVINYA\AVINYALIB\obj\Debug\net8.0\AVINYALIB.genruntimeconfig.cache
